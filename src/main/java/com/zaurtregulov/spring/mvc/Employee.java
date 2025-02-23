@@ -10,6 +10,11 @@ public class Employee {
     private String department;
     private Map<String, String> departments;
 
+
+    // new line
+    //jkl
+    //jijkljk
+
     public Employee() {
         departments = new HashMap<>();
         departments.put("IT","Information Technology");
